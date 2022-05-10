@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3DDC84&height=300&section=header&text=Yuri Na&fontSize=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=e2d9f7&height=300&section=header&text=Yuri Na&fontSize=70" />
 </p>
 
 Hi, there👋 I'm **Yuri Na**.<br>
