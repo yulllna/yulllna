@@ -1,11 +1,9 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=e2d9f7&height=300&section=header&text=Yuri Na&fontSize=70" />
-</p>
 
 Hi, there👋 I'm **Yuri Na**.<br>
 Studying **Front-end web development**:computer:
 
 I have 2 year of experience as a web frontend developer. <br>
+I'm interested in improving user experience and exploring scalable and collaborative-friendly code.:sparkles:
 
 I like work out, running, hiking and Travel. <br>
 I hope to develop happily with good people.:ok_woman:
