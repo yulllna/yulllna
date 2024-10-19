@@ -2,7 +2,7 @@
 Hi, there👋 I'm **Yuri Na**.<br>
 Studying **Front-end web development**💻
 
-I have 2 year of experience as a web frontend developer. <br>
+I have 3 year of experience as a web frontend developer. <br>
 I'm interested in improving user experience and exploring scalable and collaborative-friendly code.✨
 
 I hope to develop happily with good people.🙆‍♀️
